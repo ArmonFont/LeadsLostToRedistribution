@@ -1,5 +1,7 @@
 # LeadsLostToRedistribution
-KPI query used to monitor AE web lead consistency.
+KPI query used to see if AEs are attacking fresh web leads aggressively.
+
+Fresh web leads are forms recently submitted by potential customers to Account Executives (AEs)
 
 The goal of this query is to monitor our AE’s ability to address fresh web leads quickly and frequently. The CRM system used in this scenario is designed to reassign fresh web leads 4 hours after it is assigned to/dialed by the AE (within business hours). 
 
